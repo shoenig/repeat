@@ -1,3 +1,3 @@
-module go.gophers.dev/pkgs/repeat
+module gophers.dev/pkgs/repeat
 
 go 1.12
