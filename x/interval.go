@@ -1,5 +1,5 @@
 // Package repeat/x will be replaced soon.
-package x
+package x // import "gophers.dev/pkgs/repeat/x"
 
 import "time"
 
